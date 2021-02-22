@@ -1294,14 +1294,18 @@ ul {
 		box-shadow: 0 0 10px rgba(0,0,0,.2), 0 0 15px rgba(0,0,0,.15);
 	}
 
-		.section-contact-us .social-links li {
-			display: inline-block;
-			margin: 30px;
-			width: 30px;
-			opacity: .85;
-			transition: all .2s;
-		}
+	.section-contact-us .social-links li {
+		display: inline-block;
+		margin: 30px;
+		width: 30px;
+		opacity: .85;
+		transition: all .2s;
+	}
 
-			.section-contact-us .social-links li:hover {
-				opacity: 1;
-			}
+	.section-contact-us .social-links li:hover {
+		opacity: 1;
+	}
+
+	.ul-deatils-head{
+		margin-left: 15px;
+	}
